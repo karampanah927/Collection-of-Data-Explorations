@@ -6,10 +6,7 @@ A collection of data exploration and analysis projects on various datasets. Each
 - [Introduction](#introduction)
 - [Projects](#projects)
 - [Getting Started](#getting-started)
-- [Requirements](#requirements)
-- [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 This repository is a personal portfolio of data exploration projects across various domains. Each analysis includes data cleaning, visualization, and key insights. The aim is to provide a comprehensive look at the data and practice analytical and visualization skills.
