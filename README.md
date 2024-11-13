@@ -12,10 +12,10 @@ A collection of data exploration and analysis projects on various datasets. Each
 This repository is a personal portfolio of data exploration projects across various domains. Each analysis includes data cleaning, visualization, and key insights. The aim is to provide a comprehensive look at the data and practice analytical and visualization skills.
 
 ## Projects
-Each project is contained in its own folder with a Jupyter Notebook, the dataset, and supporting files. Here’s a list of the current projects:
+Here’s a list of the current projects:
 
-1. **Project Name**: Brief description of the dataset and objectives.
-2. **Project Name**: Brief description of the dataset and objectives.
+1. **Household Electricity Consumption Analysis**
+2. **Electricity Network Simulation Analysis**
 
 *New projects will be added over time.*
 
