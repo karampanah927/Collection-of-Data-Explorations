@@ -1,6 +1,6 @@
 # Data Explorations
 
-A collection of data exploration and analysis projects on various datasets. Each project provides a structured and in-depth analysis, focusing on key insights, visualizations, and findings.
+This is a collection of data exploration and analysis projects on various datasets. Each project provides a structured and in-depth analysis, focusing on key insights, visualizations, and findings.
 
 ## Table of Contents
 - [Introduction](#introduction)
